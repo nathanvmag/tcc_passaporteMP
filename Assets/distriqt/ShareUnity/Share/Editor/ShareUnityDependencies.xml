@@ -1,0 +1,7 @@
+﻿<dependencies>
+    <androidPackages>
+        <androidPackage spec="androidx.legacy:legacy-support-v4:1.0.0"/>
+        <androidPackage spec="androidx.annotation:annotation:1.2.0"/>
+        <androidPackage spec="androidx.core:core:1.9.1"/>
+    </androidPackages>
+</dependencies>

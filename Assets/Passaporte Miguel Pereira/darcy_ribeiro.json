@@ -1,0 +1,182 @@
+[
+  {
+    "data": "1922",
+    "localizacao": "Montes Claros, Minas Gerais",
+    "texto": "Darcy Ribeiro Nasce em Montes Claros, Minas Gerais, em 26 de outubro de 1922, filho de Reginaldo Ribeiro dos Santos, farmacêutico, e de Josefina Augusta da Silveira, professora, cujo apelido era Dona Fininha. O pai faleceu quando Darcy tinha três anos de idade.",
+    "localizacaoMapa": "Montes Claros",
+    "latitude": -16.72907439588657,
+    "longitude": -43.86533158331953,
+    "imagem": "Darcy_Jovem"
+  },
+  {
+    "data": "1939-1942",
+    "localizacao": "Belo-Horizonte, Minas Gerais",
+    "texto": "Em 1939, Darcy Ribeiro mudou-se para Belo Horizonte para cursar a faculdade de Medicina. Logo percebeu seu desinteresse pela área, que abandonaria para se dedicar à Antropologia e às ciências sociais.",
+    "localizacaoMapa": "Belo Horizonte",
+    "latitude": -19.920774041730798,
+    "longitude": -43.93693095588863,
+    "imagem": "Darcy_Universidade"
+  },
+  {
+    "data": "1942-1947",
+    "localizacao": "São Paulo, São Paulo",
+    "texto": "Em São Paulo, Darcy Ribeiro troca Medicina por Ciências Sociais na USP. Em 1946, conhece Berta Gleiser e se forma em Antropologia. No ano seguinte, inicia sua atuação como etnólogo no SPI, marcando o início de sua trajetória com os povos indígenas.",
+    "localizacaoMapa": "São Paulo",
+    "latitude": -23.561172887477362,
+    "longitude": -46.73082128973307,
+    "imagem": "Darcy_USP"
+  },
+  {
+    "data": "1947-1956",
+    "localizacao": "Mato Grosso do Sul",
+    "texto": "Sob a liderança de Marechal Rondon no Serviço de Proteção ao Índio, Darcy Ribeiro atuou no Brasil Central, vivendo com comunidades indígenas, aprendendo suas línguas e culturas, e consolidando sua formação como etnólogo comprometido com a causa indígena.",
+    "localizacaoMapa": "Mato Grosso do Sul",
+    "latitude": -20.72037402896105,
+    "longitude": -57.230315527406766,
+    "imagem": "Darcy_Indígena"
+  },
+  {
+    "data": "1953",
+    "localizacao": "Maracanã, Rio de Janeiro",
+    "texto": "Darcy Ribeiro Funda o Museu do Índio, localizado na Rua Mata Machado (Aldeia Maracanã) no bairro do Maracanã, Rio de Janeiro. O Museu do Índio é reconhecido pela Unesco - Organização das Nações Unidas para a Educação, Ciência e Cultura – como o primeiro no mundo contra o preconceito e com o objetivo de difundir a cultura dos povos indígenas.",
+    "localizacaoMapa": "Rio de Janeiro",
+    "latitude": -22.911959949528313,
+    "longitude": -43.226845847419824,
+    "imagem": "Darcy_Museu_Indígena"
+  },
+  {
+    "data": "1959-1954",
+    "localizacao": "Brasília, DF",
+    "texto": "Entre 1959 e 1964, Darcy Ribeiro atuou no Inep como diretor e subdiretor do Centro Brasileiro de Pesquisas Educacionais, planejou e foi o 1º reitor da UnB, lançou a Biblioteca Básica Brasileira e exerceu cargos de Ministro da Educação e Chefe da Casa Civil de Jango.",
+    "localizacaoMapa": "Brasília",
+    "latitude": -15.762940452297505,
+    "longitude": -47.87063110338246,
+    "imagem": "Darcy_Jango"
+  },
+  {
+    "data": "1964",
+    "localizacao": "Uruguai",
+    "texto": "Após o golpe militar que depôs o presidente João Goulart, Darcy Ribeiro se exila no Uruguai, com seus direitos políticos cassados pelo AI-1 e destituído dos cargos na UnB e no Serviço de Proteção ao Índio.  No Uruguai atua como professor da Universidad de la Republica e participa da reforma e da fundação de várias outras universidades.",
+    "localizacaoMapa": "Uruguai",
+    "latitude": -32.5951186696794,
+    "longitude": -56.05872167693469,
+    "imagem": "Darcy_Uruguai"
+  },
+  {
+    "data": "1968",
+    "localizacao": "Niterói, Rio de Janeiro",
+    "texto": "Após ter sido absolvido pelo STF das condenações militares que pesavam sobre ele, Darcy regressa ao Brasil sendo preso e indiciado em processo por infração à Lei de Segurança Nacional, após a edição do AI-5 em 13 de dezembro. Permanece preso durante oito meses na Fortaleza de Santa Cruz, em Niterói. Nesse mesmo ano publica os livros O Processo civilizatório e La Universidad Latinoamericana.",
+    "localizacaoMapa": "Niterói",
+    "latitude": -22.93817473091381,
+    "longitude": -43.13171907850713,
+    "imagem": "Darcy_Exílio"
+  },
+  {
+    "data": "1969",
+    "localizacao": "Venezuela",
+    "texto": "Apesar de absolvido pela Auditoria da Marinha do Rio de Janeiro deve deixar o país para um novo exílio, agora na Venezuela. No mesmo ano publica As Américas e a Civilização e Os brasileiros: 1. Teoria do Brasil.",
+    "localizacaoMapa": "Venezuela",
+    "latitude": 10.667364735983998,
+    "longitude": -67.45144955127223,
+    "imagem": "Darcy_Venezuela"
+  },
+  {
+    "data": "1971",
+    "localizacao": "Chile",
+    "texto": "Convidado pelo presidente Salvador Allende para assessorá-lo, atua como professor da Universidad de Chile. Publica o livro Os dilemas da América Latina.",
+    "localizacaoMapa": "Chile",
+    "latitude": -33.44221296402186,
+    "longitude": -70.65392404527458,
+    "imagem": "Darcy_Chile"
+  },
+  {
+    "data": "1972",
+    "localizacao": "Peru",
+    "texto": "Darcy se muda para o Peru, onde assessora o presidente Juan Velasco Alvarado na organização do Centro de Participação Social, patrocinado pela ONU. Estuda a organização de novas universidades de ciências humanas e de planificação social. Publica, sob a forma de livro, Université de Sciences Humaines d’Alger.",
+    "localizacaoMapa": "Peru",
+    "latitude": -12.04614980926012,
+    "longitude": -77.04286977412468,
+    "imagem": "Darcy_Peru"
+  },
+  {
+    "data": "1979",
+    "localizacao": "Rio de Janeiro",
+    "texto": "Anistiado, Darcy se torna professor titular da Universidade Federal do Rio de Janeiro, do Instituto de Filosofia e Ciências Sociais. Associa-se à Leonel Brizola para reorganizar o velho Partido Trabalhista Brasileiro. Em 1982, é eleito vice-governador do Estado do Rio de Janeiro na chapa de Leonel Brizola (PDT).",
+    "localizacaoMapa": "Rio de Janeiro",
+    "latitude": -22.86587149208424,
+    "longitude": -43.21510557071526,
+    "imagem": "Darcy_Brizola"
+  },
+  {
+    "data": "1984",
+    "localizacao": "Avenida Marquês de Sapucaí, Rio de Janeiro",
+    "texto": "O sambódromo, grande paco do carnaval brasileiro, éinaugurado em 2 de março de 1984. Darcy Ribeiro foi um dos principais mentores e idealizadores da obra, com projeto de Oscar Niemeyer, tornando-se a Passarela Professor Darcy Ribeiro em 1987, em sua homenagem.",
+    "localizacaoMapa": "Marquês de Sapucaí, Rio de Janeiro",
+    "latitude": -22.911226675292866,
+    "longitude": -43.19678647100618,
+    "imagem": "Darcy_Sambodromo"
+  },
+  {
+    "data": "1985",
+    "localizacao": "Catete, Rio de Janeiro",
+    "texto": "Como vice-governador, Darcy responde pela Secretaria de Ciência e Cultura e coordena o Projeto Especial de Educação, responsável pelo programa das escolas de horário integral - os CIEPS. O primeiro CIEP foi inaugurado em 8 de maio de 1985 no bairro do Catete, Rio de Janeiro.",
+    "localizacaoMapa": "Catete, Rio de Janeiro",
+    "latitude": -22.922902674097212,
+    "longitude": -43.176828703241306,
+    "imagem": "Darcy_Cieps"
+  },
+  {
+    "data": "1989",
+    "localizacao": "Barra Funda, São Paulo",
+    "texto": "Darcy desenvolve o projeto cultural do Memorial da América Latina, centro cultural, político e de lazer, projetado por Oscar Niemeyer e inaugurado em 18 de março de 1989, no bairro da Barra Funda, em São Paulo.",
+    "localizacaoMapa": "Barra Funda, São Paulo",
+    "latitude": -23.526976252781363,
+    "longitude": -46.665439326514594,
+    "imagem": ""
+  },
+  {
+    "data": "1992",
+    "localizacao": "Centro, Rio de Janeiro",
+    "texto": "É eleito para a Cadeira nº 11 da Academia Brasileira de Letras, que tem como Patrono Fagundes Varela e Predecessor Deolindo Couto. Em colaboração com Carlos de Araújo Moreira Neto, publica o livro A Fundação do Brasil – 1500/1700.",
+    "localizacaoMapa": "Centro, Rio de Janeiro",
+    "latitude": -22.91054650709448,
+    "longitude": -43.17300228789894,
+    "imagem": "Darcy_ABL"
+  },
+  {
+    "data": "1994",
+    "localizacao": "Campo dos Goytacazes, Rio de Janeiro",
+    "texto": "Darcy funda a Universidade Estadual do Norte Fluminense. Embarca em campanha presidencial, como candidato a vice na chapa do amigo de longa data Leonel Brizola.",
+    "localizacaoMapa": "Campo dos Goytacazes, Rio de Janeiro",
+    "latitude": -22.403607941784706,
+    "longitude": -41.855198545905644,
+    "imagem": "niemeyer-uenf"
+  },
+  {
+    "data": "1995",
+    "localizacao": "Maricá, Rio de Janeiro",
+    "texto": "Um mês após a internação na UTI, considerado um paciente terminal, Darcy foge do hospital para concluir em sua casa de praia em Maricá seu livro O Povo Brasileiro - a Formação e o Sentido do Brasil, um clássico sobre a identidade nacional",
+    "localizacaoMapa": "Maricá",
+    "latitude": -22.954750542724252,
+    "longitude": -42.73811432889781,
+    "imagem": "Darcy_Maricá"
+  },
+  {
+    "data": "1997",
+    "localizacao": "Brasília, DF",
+    "texto": "Darcy morre em Brasília, no dia 17 de fevereiro, aos 74 anos, vítima de câncer.",
+    "localizacaoMapa": "Brasília",
+    "latitude": -15.762940452297505,
+    "longitude": -47.87063110338246,
+    "imagem": "150217_HonorisCausa_Cedoc"
+  },
+  {
+    "data": "1997",
+    "localizacao": "Botafogo, Rio de Janeiro",
+    "texto": "Darcy é velado no Salão dos Poetas Românticos da ABL (Academia Brasileira de Letras), no centro do Rio, e sepultado no Mausoléu da Academia Brasileira de Letras, no cemitério de São João Batista, em Botafogo, zona sul do Rio.",
+    "localizacaoMapa": "Botafogo, Rio de Janeiro",
+    "latitude": -22.957433630585637,
+    "longitude": -43.18914870324058,
+    "imagem": "482005950_654421020601953_3563450302220158298_n-2"
+  }
+]
